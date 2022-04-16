@@ -1,0 +1,201 @@
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #0496FF;
+}
+header{
+    position: absolute;
+    width: 4100px;
+    height: 350px;
+    left: 0px;
+    top: 50px;
+    border-color: #000000;
+    border-style: ridge;
+    background: #006BA6;
+}
+
+@font-face{
+    font-family:simplicity ;
+    src: url(/Cursos/simplicity.ttf);
+}
+
+@font-face{
+    font-family:Autography;
+    src:url(/Cursos/Autography.otf);
+}
+@font-face{
+    font-family: fallinlove;
+    src: url(/Cursos/Fall\ in\ love.ttf);
+}
+.title{
+position: absolute;
+width: 4000px;
+height: 200px;
+left: 460px;
+font-family:fallinlove;
+font-style:oblique;
+font-weight:bold;
+font-size: 120px;
+color: #000000;
+}
+
+.volver{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 40px;
+    top: 40px;
+}
+.cuadro
+{
+position: absolute;
+width: 600px;
+height: 700px;
+left: 400px;
+top: 550px;
+background: #FFFFFF;
+border-color: #000000;
+border-style: ridge;
+}
+
+.cuadro2
+{
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    left: 1400px;
+    top: 550px;
+    background-color: #FFFFFF;
+    border-color: #000000;
+    border-style: ridge;
+}
+
+.cuadro3{
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    left: 2400px;
+    top: 550px;
+    border-color: #000000;
+    border-style: ridge;
+    background: #FFFFFF;
+}
+
+.cuadro4
+{
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    left: 900px;
+    top: 1400px;
+    border-color: #000000;
+    border-style: ridge;
+    background: #FFFFFF;
+}
+
+.cuadro5
+{
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    left: 2000px;
+    top: 1400px;
+    border-color: #000000;
+    border-style: ridge;
+    background: #FFFFFF;
+}
+.c1{
+position: absolute;
+width: 500px;
+height: 450px;
+left: 50px;
+top: 200px;
+
+background: #E4FFE1;
+}
+.c2{
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    left: 50px;
+    top: 200px;
+    
+    background: #E4FFE1;
+    }
+    .c3{
+        position: absolute;
+        width: 500px;
+        height: 450px;
+        left: 50px;
+        top: 200px;
+        
+        background: #E4FFE1;
+        }
+        .c4{
+            position: absolute;
+            width: 500px;
+            height: 450px;
+            left: 50px;
+            top: 200px;
+            
+            background: #E4FFE1;
+            }
+            .c5{
+                position: absolute;
+                width: 500px;
+                height: 450px;
+                left: 50px;
+                top: 200px;
+                
+                background: #E4FFE1;
+                }
+.subt1{
+position:absolute;
+width: 211px;
+height: 60px;
+top: 200px;
+left: 150px;
+font-family:Autography;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+color: #006BA6;
+}
+
+                
+.text1{
+position: absolute;
+width: 500px;
+height: 500px;
+left: 50px;
+top: 300px;
+color: #000000;
+font-family:simplicity ;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 30px;
+text-align: center;
+}
+
+.img{
+ position: absolute;
+width: 150px;
+height: 150px;
+left: 210px;
+top: 40px;
+}
+
+.precio{
+position: absolute;
+width: 100px;
+height: 30px;
+left: 250px;
+top: 630px;
+font-size: 20px;
+background: #C4C4C4;
+border-radius: 5px;
+}

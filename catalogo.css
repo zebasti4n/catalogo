@@ -1,0 +1,100 @@
+body{
+position:absolute;
+width: 1440px;
+height: 1024px;
+background: url(/Cursos/fondo.jpg);
+background-size:cover;
+}
+header{
+    position: absolute;
+    width: 2800px;
+    height: 1800px;
+    left: 1500px;
+    top: 300px;
+    border: #000000;
+    border-style:ridge;
+    
+    background: #FFFFFF;
+
+}
+@font-face
+{
+    font-family:simplicity ;
+    src:url(/Cursos/simplicity.ttf);
+}
+
+@font-face{
+font-family:Autography;
+src:url(/Cursos/Autography.otf);
+}
+@font-face{
+font-family: fallinlove;
+src: url(/Cursos/Fall\ in\ love.ttf);
+}
+
+@font-face{
+font-family:HolidayFree;
+src: url(/Cursos/HolidayFree.otf);
+}
+.titulo{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    left: 950px;
+    top: 10px;
+    font-family:fallinlove;
+    font-style:oblique;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 400px;
+}
+
+.volver{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 40px;
+    top: 40px;
+}
+
+.sub{
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 1000px;
+    top: 800px;  
+    background: #FADC60;
+}
+
+.subtext{
+    position: absolute;
+    left: 1100px;
+    top: 790px;  
+    font-family: 'Noto Sans HK';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 40px;
+    line-height: 60px;
+}
+.dilema{
+    position: absolute;
+    width: 2000px;
+    height: 100px;
+    left: 400px;
+    top: 950px;
+    
+    font-family: 'Noto Sans HK';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 43px;
+    
+    color: #000000;
+}
+.img{
+position: absolute;
+width: 400px;
+height: 400px;
+left: 1100px;
+top: 370px;
+}
